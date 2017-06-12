@@ -1,0 +1,12 @@
+{
+  "name": "nano",
+  "version": "1.0.0",
+  "description": "A micro `micro` app",
+  "license": "MIT",
+  "scripts": {
+    "start": "micro ."
+  },
+  "dependencies": {
+    "micro": "latest"
+  }
+}
